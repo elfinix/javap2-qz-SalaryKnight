@@ -32,7 +32,7 @@ Salary Knight is a Java-based graphical user interface (GUI) application designe
 ### Installation
 
 1. **Download the Executable File**
-   - Visit the [Releases section](https://github.com/elfin-college/javap2-qz-SalaryKnight/releases) of this repository.
+   - Visit the [Releases section](https://github.com/elfinix/javap2-qz-SalaryKnight/releases) of this repository.
 
 2. **Navigate to the Download Folder**
    - Open File Explorer and go to your `Downloads` folder (or wherever your browser saves downloaded files).
