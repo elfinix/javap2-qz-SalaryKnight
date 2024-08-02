@@ -39,6 +39,16 @@ Salary Knight is a Java-based graphical user interface (GUI) application designe
 
 3. **Launch the application.**
    - Double-click the application icon to launch it.
+   
+### Account Roster:
+| Emp. Code | Name         | Gross Pay |
+|-----------|--------------|-----------|
+| 13134     | Knight       | 2500.00   |
+| 13135     | Ranger       | 2000.00   |
+| 13136     | Mage         | 4500.00   |
+| 13137     | Viking       | 2250.00   |
+| 13138     | Miner        | 3000.00   |
+| 13139     | Trap Master  | 5000.00   |
 
 ## 🔁 Dependencies
 
